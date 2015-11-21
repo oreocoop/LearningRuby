@@ -19,5 +19,3 @@ BEGIN {
 BEGIN {
    puts "Initializing Ruby Program 2"
 }
-
-# git test

@@ -9,7 +9,7 @@ class Customer
     
 #Here I define a display_details method and print out a string that will pass the instance variable values into the string. You need a hash (#) in order to display the text AND the value of the instance variable.    
     def display_details()
-        puts "Customer id #@customer_id"
+        puts "Customer id #@cust_id"
         puts "Customer name #@cust_name"
         puts "Customer address #@cust_addr"
     end

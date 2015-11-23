@@ -20,4 +20,11 @@ BEGIN {
    puts "Initializing Ruby Program 2"
 }
 
-# git test
+=begin
+This is a comment.
+This is a comment, too.
+This is a comment, too.
+I said that already.
+=end
+
+#the above is another way of entering comments

@@ -21,7 +21,7 @@ class Customer
     end
 end
 
-#Here I create two new objects of the Customer class and pass the parameters with the new method. Thes objects below call the initialize method 
+#Here I create two new objects of the Customer class and pass the parameters with the new method. These objects below call the initialize method 
 cust1 = Customer.new("1", "John", "Wisdom Apartments, Ludhiya")
 cust2 = Customer.new("2", "Paul", "New Empire Road, Khandla")
 cust3 = Customer.new("4", "Coop", "Millstone Road")
@@ -33,5 +33,3 @@ cust2.display_details()
 cust2.total_no_of_customers()
 cust3.display_details()
 cust3.total_no_of_customers()
-
-
